@@ -1,0 +1,42 @@
+---
+title: "Session 09"
+---
+
+```{r, echo=FALSE}
+library(fontawesome)
+```
+
+
+### `r fa("info", fill = "darkgray")` Info
+
+- Das letzte inhaltliche Modul beschäftigt sich mit dem Thema Studiengebühren und erarbeitet warum insbesondere längsschnittliche Evaluationen von besonderem Interesse für die Bildungsforschung sind.
+- Hierfür wird ein natürliches Experiment (mit Difference-in-Difference Ansatz) zur Wirkung von Studiengebühren exemplarisch vorgestellt sowie im Allgemeinen die Vorteile von längsschnittlichen Analysen herausgearbeitet.
+- Beide Ansätze unterscheiden sich hinsichtlich des Forschungsdesigns, jedoch versuchen beide Ansätze das Problem der unbeobachteten Heterogenität zu adressieren.
+
+
+### `r fa("newspaper", fill = "darkgray")`  Lernmodul
+
+ <iframe src="https://www.studon.fau.de/studon/data/StudOn/lm_data/lm_5390846/index.html" width="100%" height="400" style="border:border:1px solid black;" allow="fullscreen">
+</iframe>
+
+- Mouse click inside the slide and press F for the full picture mode
+- <a href="https://www.studon.fau.de/studon/data/StudOn/lm_data/lm_5234058/index.html#/" target="_blank">Or open in a new tab!</a>
+
+
+
+### `r fa("question", fill = "darkgray")` Lernzielfrage(n)
+
+- Kannst du erklären, warum ein Experiment als ein natürliches Experiment bezeichnet wird?
+- Wie wird das Problem der unbeobachteten Heterogenität bei einem Difference-in-Difference Ansatz adressiert?
+- Was ist der größte Vorteil von Paneldaten im Allgemeinen?
+
+
+### `r fa("file-pdf", fill = "darkgray")` Materialien
+
+<a href="https://www.studon.fau.de/file3797632_download.html" class="btn btn-secondary"> Slides</a>
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+---
+title: "Session 06"
+---
+
+```{r, echo=FALSE}
+library(fontawesome)
+```
+
+
+### `r fa("info", fill = "darkgray")` Info
+
+- In der Bildungsforschung werden häufig Evaluationen durchgeführt, ohne dabei zugrunde zu legen, was mit einer Evaluation gemeint ist. 
+- Das Modul gibt einen Einblick und zeigt auf, warum die empirische Bildungsforschung häufig an Ursachen und Wirkungszusammenhängen interessiert ist und deshalb einem kausalen Evaluationsparadigma enthällt.
+- Ferner beinhaltet das Modul die Grundideen der kausalen Inferenz und führt in entsprechende Forschungsdesigns ein.
+
+
+### `r fa("newspaper", fill = "darkgray")`  Lernmodul
+
+ <iframe src="https://www.studon.fau.de/studon/data/StudOn/lm_data/lm_5332920/index.html#/" width="100%" height="400" style="border:border:1px solid black;" allow="fullscreen">
+</iframe>
+
+- Mouse click inside the slide and press F for the full picture mode
+- <a href="https://www.studon.fau.de/studon/data/StudOn/lm_data/lm_5332920/index.html#/" target="_blank">Or open in a new tab!</a>
+
+
+
+### `r fa("question", fill = "darkgray")` Lernzielfrage(n)
+
+- Was ist der Unterschied zwischen der alltäglichen und der wissenschaftlichen Evaluation?
+- Erkläre das fundamentale Problem der kausalen Inferenz am Beispiel Rauchen.
+- Was ist der Unterschied zwischen einem experimentellen und einem quasi-experimentellen Forschungsdesign?
+
+### `r fa("file-pdf", fill = "darkgray")` Materialien
+
+<a href="https://www.studon.fau.de/file3797632_download.html" class="btn btn-secondary"> Slides</a>
+
+
+
+
+
+
+
+

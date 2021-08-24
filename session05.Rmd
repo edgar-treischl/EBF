@@ -1,0 +1,45 @@
+---
+title: "Session 05"
+---
+
+```{r, echo=FALSE}
+library(fontawesome)
+```
+
+
+### `r fa("info", fill = "darkgray")` Info
+
+- Session 5 zeigt, dass sich die soziale Herkunft fast auf den gesamten Bildungsverlauf (Vom Kindergarten bis zur Promotion) auswirkt.
+- Dies trifft nicht auf den Bildungsverlauf zu, sondern auch im Zeitverlauf, obwohl die Bildungsexpansion teilweise Bildungsungleichheit abbauen konnte.
+- Ferner wird erarbeitet, dass eine Ungleichheit nicht mit Ungerechtikeit gleichzusetzen ist.
+
+
+### `r fa("newspaper", fill = "darkgray")`  Lernmodul
+
+ <iframe src="https://www.studon.fau.de/studon/data/StudOn/lm_data/lm_5316332/index.html" width="100%" height="400" style="border:border:1px solid black;" allow="fullscreen">
+</iframe>
+
+- Mouse click inside the slide and press F for the full picture mode
+- <a href="https://www.studon.fau.de/studon/data/StudOn/lm_data/lm_5316332/index.html" target="_blank">Or open in a new tab!</a>
+
+
+
+### `r fa("question", fill = "darkgray")` Lernzielfrage(n)
+
+-  Warum ist Ungleichheit nicht mit Ungerechtigkeit gleichzusetzen? Erkläre die Ceteris paribus Klausel am Beispiel Einkommensungleichheit von Männern und Frauen.
+- Was drückt ein Odds Ratio aus?
+- Wovon spricht man, wenn bei der Bildungsexpansion von einem Fahrstuhl Effekt die Rede ist?
+- Hatte die Bildungsexpansion auch negative Folgen?
+
+### `r fa("file-pdf", fill = "darkgray")` Materialien
+
+<a href="https://www.studon.fau.de/file3797632_download.html" class="btn btn-secondary"> Slides</a>
+
+<a href="http://edgar-treischl.de/apps/logistic-regression-app/" class="btn btn-primary">Zur Logit App</a>
+
+
+
+
+
+
+

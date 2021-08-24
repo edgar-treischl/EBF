@@ -1,0 +1,43 @@
+---
+title: "Session 07"
+---
+
+```{r, echo=FALSE}
+library(fontawesome)
+```
+
+
+### `r fa("info", fill = "darkgray")` Info
+
+- Session 7 gibt ein Beispiel für eine Evaluation im Bildungsbereich. Dabei wird die Frage diskutiert, welche kausale Wirkung die Klassengröße auf die individuelle Schulleistung von Kindern und Jugendliche hat.
+- Das Modul geht dabei auf mögliche Fallstricke von Evaluationen auf Basis von Querschnittsdaten ein und gibt einen Einblick in die Sprache der Kausalstruktur.
+- Abschließend werden experimentelle und quasi-experimentelle Befunde hinsichtlich der kausalen Wirkung der Klassengröße aufgegriffen.
+
+
+### `r fa("newspaper", fill = "darkgray")`  Lernmodul
+
+ <iframe src="https://www.studon.fau.de/studon/data/StudOn/lm_data/lm_5365468/index.html" width="100%" height="400" style="border:border:1px solid black;" allow="fullscreen">
+</iframe>
+
+- Mouse click inside the slide and press F for the full picture mode
+- <a href="https://www.studon.fau.de/studon/data/StudOn/lm_data/lm_5234058/index.html#/" target="_blank">Or open in a new tab!</a>
+
+
+
+### `r fa("question", fill = "darkgray")` Lernzielfrage(n)
+
+- Was ist der Hauptbefund vieler Studien im Querschnitt hinsichtlich des Effekts der Klassengröße?
+
+- Kommen experimentelle und quasi-experimentelle Studien zu den gleichen Ergebnissen wie Studien im Querschnitt?
+
+- Welche Art von Drittvariable sollte nicht kontrolliert werden, um den wahren Effekt von X auf Y zu berechnen.
+
+### `r fa("file-pdf", fill = "darkgray")` Materialien
+
+<a href="https://www.studon.fau.de/file3797632_download.html" class="btn btn-secondary"> Slides</a>
+
+
+
+
+
+

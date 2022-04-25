@@ -13,13 +13,14 @@
 
 <title>News</title>
 
-<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <link href="site_libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script>
-<script src="site_libs/bs3compat-0.2.5.1/tabs.js"></script>
-<script src="site_libs/bs3compat-0.2.5.1/bs3compat.js"></script>
+<script src="site_libs/bs3compat-0.3.1/transition.js"></script>
+<script src="site_libs/bs3compat-0.3.1/tabs.js"></script>
+<script src="site_libs/bs3compat-0.3.1/bs3compat.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -53,6 +54,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -73,6 +75,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -225,7 +230,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -235,7 +240,7 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     <span class="fa fa-play"></span>
      
     Sitzungen
@@ -249,30 +254,6 @@ $(document).ready(function () {
     <li>
       <a href="session02.html">02 Methodenbootcamp</a>
     </li>
-    <li>
-      <a href="session03.html">03 Zentrale Empirische Befunde</a>
-    </li>
-    <li>
-      <a href="session04.html">04 Theorien</a>
-    </li>
-    <li>
-      <a href="session05.html">05 Soziale Herkunftseffekte</a>
-    </li>
-    <li>
-      <a href="session06.html">06 Evaluationen</a>
-    </li>
-    <li>
-      <a href="session07.html">07 Klassengröße</a>
-    </li>
-    <li>
-      <a href="session08.html">08 Interventionen</a>
-    </li>
-    <li>
-      <a href="session09.html">09 Studiengebühren</a>
-    </li>
-    <li>
-      <a href="session10.html">10 Quiz</a>
-    </li>
   </ul>
 </li>
 <li>
@@ -284,13 +265,7 @@ $(document).ready(function () {
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li>
-  <a href="about.html">
-    <span class="fa fa-user-secret"></span>
-     
-    Dein Dozent
-  </a>
-</li>
+        
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -306,10 +281,10 @@ $(document).ready(function () {
 
 
 <div id="updates" class="section level3">
-<h3><svg aria-hidden="true" role="img" viewBox="0 0 192 512" style="height:1em;width:0.38em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:darkgray;overflow:visible;position:relative;"><path d="M20 424.229h20V279.771H20c-11.046 0-20-8.954-20-20V212c0-11.046 8.954-20 20-20h112c11.046 0 20 8.954 20 20v212.229h20c11.046 0 20 8.954 20 20V492c0 11.046-8.954 20-20 20H20c-11.046 0-20-8.954-20-20v-47.771c0-11.046 8.954-20 20-20zM96 0C56.235 0 24 32.235 24 72s32.235 72 72 72 72-32.235 72-72S135.764 0 96 0z"/></svg> Updates</h3>
+<h3><svg aria-hidden="true" role="img" viewBox="0 0 192 512" style="height:1em;width:0.38em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:darkgray;overflow:visible;position:relative;"><path d="M20 424.229h20V279.771H20c-11.046 0-20-8.954-20-20V212c0-11.046 8.954-20 20-20h112c11.046 0 20 8.954 20 20v212.229h20c11.046 0 20 8.954 20 20V492c0 11.046-8.954 20-20 20H20c-11.046 0-20-8.954-20-20v-47.771c0-11.046 8.954-20 20-20zM96 0C56.235 0 24 32.235 24 72s32.235 72 72 72 72-32.235 72-72S135.764 0 96 0z"/></svg>
+Updates</h3>
 <ol style="list-style-type: decimal">
-<li><p>Programm Update zum Thema Klausur: NEU: Ort: Regensburger Straße 160, Raum 1.041 (großer Hörsaal)</p></li>
-<li><p>Info zum Upload der Module: Wer vorarbeiten möchte, findet das Modul für die folgende Woche immer Mittwochs ab 15:00 auf Studon unter Lernmodule</p></li>
+<li>No news update</li>
 </ol>
 </div>
 

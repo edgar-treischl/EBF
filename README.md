@@ -2,7 +2,7 @@
 
 Course website for *Einführung in die empirische Bildungsforschung* (EBF), Sommersemester 2022, Universität Erlangen-Nürnberg.
 
-A static landing page built with [Vite](https://vitejs.dev/) (vanilla JS/CSS) that links to 10 external lecture modules hosted as Shiny apps.
+A static landing page built with [Vite](https://vitejs.dev/) (vanilla JS/CSS) that links to the external lecture modules.
 
 ## Local development
 

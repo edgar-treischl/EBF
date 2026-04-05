@@ -1,0 +1,40 @@
+---
+title: "Session 04"
+---
+
+```{r, echo=FALSE}
+library(fontawesome)
+```
+
+
+### `r fa("info", fill = "darkgray")` Info
+
+- Session 4 gibt einen Überblick über zentrale Theorien der empirischen Bildungsforschung.
+- Hierfür werden zentrale Annahmen und zugrunde liegende Menschenbilder vorgestellt.
+- Daneben wird das Rationalitätsprinzip von Karl Popper eingeführt.
+
+
+### `r fa("newspaper", fill = "darkgray")`  Lernmodul
+
+<a href="http://rstudio.edgar-treischl.de/shiny/ebf/04/#/" target="_blank">
+<img border="0" alt="" src="pics/slide04.png" width="100%"></a><br>
+
+
+### `r fa("question", fill = "darkgray")` Lernzielfrage(n)
+
+- Was ist der Unterschied zwischen Homo Oeconomicus und Homo Sociologicus?
+- Warum kann man in diesem Zusammenhang auch von heuristischer Fiktion sprechen?
+- Warum ist das Horten von Klopapier nicht als zwingend irrational zu bezeichnen?
+- Handelst du nach dem Satisficing Prinzip oder der Maximierung. Kannst du ein Beispiel für beide finden?
+
+### `r fa("file-pdf", fill = "darkgray")` PDF Slides
+
+<a href="https://rstudio.edgar-treischl.de/shiny/ebf/04/pdf/04_EBF.pdf" class="btn btn-secondary"> Slides</a>
+
+
+
+
+
+
+
+

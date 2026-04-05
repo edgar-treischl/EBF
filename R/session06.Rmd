@@ -1,0 +1,39 @@
+---
+title: "Session 06"
+---
+
+```{r, echo=FALSE}
+library(fontawesome)
+```
+
+
+### `r fa("info", fill = "darkgray")` Info
+
+- In der Bildungsforschung werden häufig Evaluationen durchgeführt, ohne dabei zugrunde zu legen, was mit einer Evaluation gemeint ist. 
+- Das Modul gibt einen Einblick und zeigt auf, warum die empirische Bildungsforschung häufig an Ursachen und Wirkungszusammenhängen interessiert ist und ein kausales Evaluationsparadigma enthällt.
+- Ferner beinhaltet das Modul die Grundideen der kausalen Inferenz und führt in entsprechende Forschungsdesigns ein.
+
+
+### `r fa("newspaper", fill = "darkgray")`  Lernmodul
+
+<a href="http://rstudio.edgar-treischl.de/shiny/ebf/06/#/" target="_blank">
+<img border="0" alt="" src="pics/slide06.png" width="100%"></a><br>
+
+
+### `r fa("question", fill = "darkgray")` Lernzielfrage(n)
+
+- Was ist der Unterschied zwischen der alltäglichen und der wissenschaftlichen Evaluation?
+- Erkläre das fundamentale Problem der kausalen Inferenz am Beispiel Rauchen.
+- Was ist der Unterschied zwischen einem experimentellen und einem quasi-experimentellen Forschungsdesign?
+
+### `r fa("file-pdf", fill = "darkgray")` PDF Slides
+
+<a href="https://rstudio.edgar-treischl.de/shiny/ebf/06/pdf/06_EBF.pdf" class="btn btn-secondary"> Slides</a>
+
+
+
+
+
+
+
+

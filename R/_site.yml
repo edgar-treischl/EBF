@@ -1,0 +1,42 @@
+name: "EBF"
+navbar:
+  title: "EBF"
+  left:
+  - text: "Sitzungen"
+    icon: fa-play
+    menu:
+    - text: "01 Einführung"
+      href: session01.html
+    - text: "02 Methodenbootcamp"
+      href: session02.html
+    - text: "03 Zentrale Empirische Befunde"
+      href: session03.html
+    - text: "04 Theorien"
+      href: session04.html
+    - text: "05 Soziale Herkunftseffekte"
+      href: session05.html
+    - text: "06 Evaluationen"
+      href: session06.html
+    - text: "07 Klassengröße"
+      href: session07.html
+    - text: "08 Interventionen"
+      href: session08.html
+    - text: "09 Studiengebühren"
+      href: session09.html
+    - text: "10 Quiz"
+      href: session10.html
+  - text: "News"
+    icon: fa-pen
+    href: news.html
+  right:
+  - text: "Dein Dozent"
+    icon: fa-user-secret
+    href: about.html
+    
+    
+
+
+output:
+  html_document:
+    theme:
+      bootswatch: materia

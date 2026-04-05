@@ -1,0 +1,20 @@
+---
+title: "News"
+---
+
+```{r, echo=FALSE}
+library(fontawesome)
+```
+
+
+### `r fa("info", fill = "darkgray")` Updates
+
+1. No news update
+
+
+
+
+
+
+
+

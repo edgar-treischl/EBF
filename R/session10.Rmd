@@ -1,0 +1,36 @@
+---
+title: "Session 10"
+---
+
+```{r, echo=FALSE}
+library(fontawesome)
+```
+
+
+### `r fa("info", fill = "darkgray")` Info
+
+- Session 10 gibt Hinweise und Infos zur Klausur und beinhaltet exemplarische Klausurfragen.
+
+
+### `r fa("newspaper", fill = "darkgray")`  Lernmodul
+
+<a href="http://rstudio.edgar-treischl.de/shiny/ebf/10/#/" target="_blank">
+<img border="0" alt="" src="pics/slide10.png" width="100%"></a><br>
+
+
+### `r fa("question", fill = "darkgray")` Lernzielfrage(n)
+
+- Auflösung der Klausurfragen folgt in der letzten FAQ Live Session.
+
+
+### `r fa("file-pdf", fill = "darkgray")` PDF Slides
+
+<a href="https://rstudio.edgar-treischl.de/shiny/ebf/10/pdf/10_EBF.pdf" class="btn btn-secondary"> Slides</a>
+
+
+
+
+
+
+
+

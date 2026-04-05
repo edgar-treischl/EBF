@@ -1,0 +1,41 @@
+---
+title: "Session 08"
+---
+
+```{r, echo=FALSE}
+library(fontawesome)
+```
+
+
+### `r fa("info", fill = "darkgray")` Info
+
+- Fast alle Veränderungen im Bildungssystem können als Interventionen aufgefasst werden, Bildungsreformen sind als direkte Interventionsmaßnahmen zu verstehen. 
+- Vor diesem Hintergrund greift Modul 8 das klassische Beispiel des sozialen Herkunftseffekts auf und unterstreicht, welche Vorteile und mögliche Probleme feldexperimentelle Evaluationsdesigns haben.
+- Ferner werden faktorielle Survey examplarisch eingeführt, um zu verdeutlichen dass Bildungsentscheidungen häufig als Abwägungsprozesse betrachtet werden, dies jedoch selten messbar gemacht wird.
+
+### `r fa("newspaper", fill = "darkgray")`  Lernmodul
+
+<a href="http://rstudio.edgar-treischl.de/shiny/ebf/08/#/" target="_blank">
+<img border="0" alt="" src="pics/slide08.png" width="100%"></a><br>
+
+
+
+### `r fa("question", fill = "darkgray")` Lernzielfrage(n)
+
+- Vergleiche ein klassisches Laborexperiment mit dem Feldexperiment hinsichtlich der Beurteilung der internen und externen Validität. 
+- Was wird mit einer Power Analyse berechnet?
+- Welche Fachbegriffe von faktoriellen Surveys fallen dir spontan ein und kannst du sie erklären?
+
+### `r fa("file-pdf", fill = "darkgray")` PDF Slides
+
+<a href="https://rstudio.edgar-treischl.de/shiny/ebf/08/pdf/08_EBF.pdf" class="btn btn-secondary"> Slides</a>
+
+
+<a href="http://rstudio.edgar-treischl.de/shiny/power/" target="_blank" class="btn btn-primary">Zur Power App</a>
+
+
+
+
+
+
+

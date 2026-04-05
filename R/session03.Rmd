@@ -1,0 +1,40 @@
+---
+title: "Session 03"
+---
+
+```{r, echo=FALSE}
+library(fontawesome)
+```
+
+
+### `r fa("info", fill = "darkgray")` Info
+
+- Session 3 gibt einen Überblick über die Ziele der Bildungsforschung.
+- Als empirisch fundierte Wissenschaft, werden Bildungsvorgänge möglichst präzise beschrieben, empirisch prüfbare Theorien werden zur Erklärung herangezogen, sowie darauf aufbauend Prognosen abgeleitet.
+- Dies wird am Beispiel Geschlechtereffekte in der Bildungsforschung herausgearbeitet.
+- Abschließend erfolgt ein kurzer Abriss zum Thema Messung von Bildung. 
+
+
+### `r fa("newspaper", fill = "darkgray")`  Lernmodul
+
+<a href="http://rstudio.edgar-treischl.de/shiny/ebf/03/#/" target="_blank">
+<img border="0" alt="" src="pics/slide03.png" width="100%"></a><br>
+
+
+### `r fa("question", fill = "darkgray")` Lernzielfrage(n)
+
+- Kannst du die Ziele der Bildungsforschung an einem anderen Thema erklären? (Bsp. Bildungserfolg von Personen mit Migrationshintergrund)
+- Warum braucht die EBF die Coleman'sche Badewanne?
+- Was bedeutet Raschkonformität und wie könnte sie geprüft werden?
+
+### `r fa("file-pdf", fill = "darkgray")` PDF Slides
+
+<a href="https://rstudio.edgar-treischl.de/shiny/ebf/03/pdf/03_EBF.pdf" class="btn btn-secondary"> Slides</a>
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+---
+title: "Session 01"
+---
+
+```{r, echo=FALSE}
+library(fontawesome)
+```
+
+
+### `r fa("info", fill = "darkgray")` Info
+
+- In Session 1 werden die organisatorische Angelegenheiten, der Ablauf der Lehrvernastaltung und die Prüfungsform besprochen. 
+
+
+### `r fa("newspaper", fill = "darkgray")`  Lernmodul
+
+
+
+<a href="http://rstudio.edgar-treischl.de/shiny/ebf/01/#/" target="_blank">
+<img border="0" alt="" src="pics/slide01.png" width="100%"></a><br>
+
+
+
+### `r fa("question", fill = "darkgray")` Lernzielfrage(n)
+
+- ...
+
+### `r fa("file-pdf", fill = "darkgray")` PDF Slides
+
+<a href="https://rstudio.edgar-treischl.de/shiny/ebf/01/pdf/01_EBF.pdf" class="btn btn-secondary"> Slides</a>
+
+
+

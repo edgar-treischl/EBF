@@ -1,10 +1,10 @@
 # Empirische Bildungsforschung
 
-Course website for *Einführung in die empirische Bildungsforschung* (EBF), Sommersemester 2022, Universität Erlangen-Nürnberg.
+Course website for *Einführung in die empirische Bildungsforschung* (EBF), Sommersemester 2018 - 2022, Universität Erlangen-Nürnberg.
 
-A static landing page built with [Vite](https://vitejs.dev/) (vanilla JS/CSS) that links to the external lecture modules.
+A landing page built with [Vite](https://vitejs.dev/) (vanilla JS/CSS) that links to the lecture modules and learning apps.
 
-## Local development
+## Local
 
 ```bash
 npm install
@@ -18,15 +18,7 @@ npm run build   # outputs to dist/
 npm run preview # serve the production build locally
 ```
 
-### GitHub Pages subdirectory
 
-The deploy workflow automatically sets `VITE_BASE=/<repo-name>/`. For a user/org site (`username.github.io`) set `VITE_BASE=/` or remove the env var in `.github/workflows/deploy.yml`.
-
-## Deploy
-
-Push to `main` – the GitHub Actions workflow in `.github/workflows/deploy.yml` builds the site and deploys it to GitHub Pages automatically.
-
-**First-time setup:** go to *Settings → Pages* and set the source to **GitHub Actions**.
 
 ## Project structure
 
@@ -38,7 +30,6 @@ Push to `main` – the GitHub Actions workflow in `.github/workflows/deploy.yml`
 │   └── data/sessions.js    Session content (titles, info, links, objectives)
 ├── public/
 │   └── pics/               Slide preview images (slide01.png … slide10.png)
-├── R/                      Legacy R Markdown source files (archived)
 └── .github/
     └── workflows/
         └── deploy.yml      Build & deploy to GitHub Pages

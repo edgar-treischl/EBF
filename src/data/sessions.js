@@ -62,7 +62,7 @@ export const sessions = [
     ],
     slidesUrl: 'https://edgar-treischl.github.io/EBFSession05/',
     pdfUrl: 'https://github.com/edgar-treischl/EBFSession05/blob/999da0758dcb9e1f5da24bc88cdcfc62f6aba9bb/pdf/05_EBF.pdf',
-    app: { url: 'http://rstudio.edgar-treischl.de/shiny/titanic/', label: 'Logit App' },
+    app: { url: 'https://edgar-treischl.github.io/TitanicApp/', label: 'Titanic App' },
   },
   {
     id: '06',
@@ -123,7 +123,7 @@ export const sessions = [
     objectives: [
       'Auflösung der Klausurfragen folgt in der letzten FAQ-Livesession.',
     ],
-    slidesUrl: 'https://edgar-treischl.github.io/EBFSession01/',
+    slidesUrl: 'https://edgar-treischl.github.io/EBFSession10/',
     pdfUrl: 'https://github.com/edgar-treischl/EBFSession10/blob/802ccc4fe2061786c62f066ef16bbfaa940dff89/pdf/10_EBF.pdf',
     app: null,
   },

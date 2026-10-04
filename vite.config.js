@@ -1,7 +1,10 @@
 import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  // Set VITE_BASE env var when deploying to a GitHub Pages subdirectory,
-  // e.g. VITE_BASE=/EBF/ (handled automatically by the deploy workflow)
+  plugins: [react()],
+
+  // Set VITE_BASE when deploying to a GitHub Pages subdirectory.
+  // Example: VITE_BASE=/EBF/
   base: process.env.VITE_BASE ?? '/',
 })
